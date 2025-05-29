@@ -1,0 +1,29 @@
+# .NET Core
+bin/
+obj/
+
+*.suo
+*.user
+.vs/
+.vscode/
+TestResults/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Node.js (nếu có front-end)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+logs/
+
+# IDE-specific
+.idea/
+*.sln.iml
+
+# Bootstrap
+bootstrap-5.3.6-dist/
